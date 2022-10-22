@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Oi';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/oi/v15/w8gXH2EuRqta.ttf) format('truetype');
+}
